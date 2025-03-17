@@ -1,0 +1,12 @@
+ #   Column          Dtype  
+---  ------          -----  
+ 0   step            int64  
+ 1   type            object 
+ 2   amount          float64
+ 3   nameOrig        object 
+ 4   oldbalanceOrg   float64
+ 5   newbalanceOrig  float64
+ 6   nameDest        object 
+ 7   oldbalanceDest  float64
+ 8   newbalanceDest  float64
+ 9   isFraud         int64  
